@@ -1,11 +1,15 @@
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gmonchain&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gmonchain&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="192" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnB2NWdtOXMzZmFwbjhmbnpnaGJ4YWRsZm56YjB0NzhtenFzaGphMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pQcmDMICZNyfSjpVqr/giphy.gif"  />
 </div>
 
 ###
 
-<img align="left" height="190" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnB2NWdtOXMzZmFwbjhmbnpnaGJ4YWRsZm56YjB0NzhtenFzaGphMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pQcmDMICZNyfSjpVqr/giphy.gif"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouzaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouzaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -31,20 +35,15 @@
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg" width="52" height="40" alt="bluesky logo"  />
+  <a href="https://x.com/gmonchains" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://devfolio.co/@GMonchain" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
+  </a>
+  <a href="https://farcaster.xyz/gmonchain.eth" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg" width="52" height="40" alt="bluesky logo"  />
+  </a>
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouzaa/maurodesouzaa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouzaa/maurodesouzaa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouzaa/maurodesouzaa/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
